@@ -1,0 +1,477 @@
+{
+  "today": "2026-07-13",
+  "campaigns": [
+    {
+      "id": "C-01",
+      "model": "WW80AK6L28BBLT",
+      "type": "Промо-запуск",
+      "channel": "Performance Max",
+      "destination": "samsung.kz",
+      "creative_id": "CR-001",
+      "status": "Готово",
+      "start": "2026-08-03",
+      "deadlines": {
+        "brief": "2026-07-20",
+        "creative": "2026-07-27",
+        "approval": "2026-07-31",
+        "upload": "2026-07-31"
+      },
+      "original": {
+        "brief": "2026-07-20",
+        "creative": "2026-07-27",
+        "approval": "2026-07-31"
+      }
+    },
+    {
+      "id": "C-02",
+      "model": "WW80AK6L28BBLT",
+      "type": "Промо-запуск",
+      "channel": "Google Search",
+      "destination": "samsung.kz",
+      "creative_id": "CR-007",
+      "status": "Готово",
+      "start": "2026-08-03",
+      "deadlines": {
+        "brief": "2026-07-20",
+        "creative": "2026-07-27",
+        "approval": "2026-07-31",
+        "upload": "2026-07-31"
+      },
+      "original": {
+        "brief": "2026-07-20",
+        "creative": "2026-07-27",
+        "approval": "2026-07-31"
+      }
+    },
+    {
+      "id": "C-03",
+      "model": "WW80AK6L28BBLT",
+      "type": "Маркетплейс",
+      "channel": "Kaspi Ads",
+      "destination": "Kaspi.kz",
+      "creative_id": "CR-011",
+      "status": "В работе",
+      "start": "2026-08-03",
+      "deadlines": {
+        "brief": "2026-07-24",
+        "creative": "2026-07-29",
+        "approval": "2026-07-31",
+        "upload": "2026-07-31"
+      },
+      "original": {
+        "brief": "2026-07-20",
+        "creative": "2026-07-27",
+        "approval": "2026-07-31"
+      }
+    },
+    {
+      "id": "C-04",
+      "model": "RB37A5411EL/WT",
+      "type": "Retail support",
+      "channel": "Meta",
+      "destination": "Technodom",
+      "creative_id": "CR-005",
+      "status": "В работе",
+      "start": "2026-08-10",
+      "deadlines": {
+        "brief": "2026-07-27",
+        "creative": "2026-08-03",
+        "approval": "2026-08-06",
+        "upload": "2026-08-07"
+      },
+      "original": {
+        "brief": "2026-07-27",
+        "creative": "2026-08-03",
+        "approval": "2026-08-07"
+      }
+    },
+    {
+      "id": "C-05",
+      "model": "RB37A5411EL/WT",
+      "type": "Retail support",
+      "channel": "Meta",
+      "destination": "Sulpak",
+      "creative_id": "CR-006",
+      "status": "В работе",
+      "start": "2026-08-10",
+      "deadlines": {
+        "brief": "2026-07-27",
+        "creative": "2026-08-03",
+        "approval": "2026-08-06",
+        "upload": "2026-08-07"
+      },
+      "original": {
+        "brief": "2026-07-27",
+        "creative": "2026-08-03",
+        "approval": "2026-08-07"
+      }
+    },
+    {
+      "id": "C-06",
+      "model": "RB53DG703EB1WT",
+      "type": "Медийка",
+      "channel": "YouTube",
+      "destination": "samsung.kz",
+      "creative_id": "CR-012",
+      "status": "Не начато",
+      "start": "2026-08-10",
+      "deadlines": {
+        "brief": "2026-07-20",
+        "creative": "2026-07-31",
+        "approval": "2026-08-05",
+        "upload": "2026-08-07"
+      },
+      "original": {
+        "brief": "2026-07-27",
+        "creative": "2026-08-03",
+        "approval": "2026-08-07"
+      }
+    },
+    {
+      "id": "C-07",
+      "model": "NV75T9979CD/WT",
+      "type": "Промо-запуск",
+      "channel": "Performance Max",
+      "destination": "samsung.kz",
+      "creative_id": "CR-013",
+      "status": "Не начато",
+      "start": "2026-08-17",
+      "deadlines": {
+        "brief": "2026-08-03",
+        "creative": "2026-08-10",
+        "approval": "2026-08-14",
+        "upload": "2026-08-14"
+      },
+      "original": {
+        "brief": "2026-08-03",
+        "creative": "2026-08-10",
+        "approval": "2026-08-14"
+      }
+    },
+    {
+      "id": "C-08",
+      "model": "NV75T9979CD/WT",
+      "type": "Маркетплейс",
+      "channel": "Ozon Ads",
+      "destination": "Ozon",
+      "creative_id": "CR-014",
+      "status": "Не начато",
+      "start": "2026-08-17",
+      "deadlines": {
+        "brief": "2026-08-07",
+        "creative": "2026-08-12",
+        "approval": "2026-08-14",
+        "upload": "2026-08-14"
+      },
+      "original": {
+        "brief": "2026-08-03",
+        "creative": "2026-08-10",
+        "approval": "2026-08-14"
+      }
+    },
+    {
+      "id": "C-09",
+      "model": "Bespoke line",
+      "type": "Медийка",
+      "channel": "Meta",
+      "destination": "samsung.kz",
+      "creative_id": "CR-015",
+      "status": "Не начато",
+      "start": "2026-08-17",
+      "deadlines": {
+        "brief": "2026-07-27",
+        "creative": "2026-08-07",
+        "approval": "2026-08-12",
+        "upload": "2026-08-14"
+      },
+      "original": {
+        "brief": "2026-08-03",
+        "creative": "2026-08-10",
+        "approval": "2026-08-14"
+      }
+    },
+    {
+      "id": "C-10",
+      "model": "WW65AK4S21CELT",
+      "type": "Медийка",
+      "channel": "YouTube",
+      "destination": "samsung.kz",
+      "creative_id": "CR-016",
+      "status": "Не начато",
+      "start": "2026-08-24",
+      "deadlines": {
+        "brief": "2026-08-03",
+        "creative": "2026-08-14",
+        "approval": "2026-08-19",
+        "upload": "2026-08-21"
+      },
+      "original": {
+        "brief": "2026-08-10",
+        "creative": "2026-08-17",
+        "approval": "2026-08-21"
+      }
+    },
+    {
+      "id": "C-11",
+      "model": "RB37A5411EL/WT",
+      "type": "Retail support",
+      "channel": "Display",
+      "destination": "Mechta",
+      "creative_id": "CR-017",
+      "status": "Не начато",
+      "start": "2026-08-24",
+      "deadlines": {
+        "brief": "2026-08-10",
+        "creative": "2026-08-17",
+        "approval": "2026-08-20",
+        "upload": "2026-08-21"
+      },
+      "original": {
+        "brief": "2026-08-10",
+        "creative": "2026-08-17",
+        "approval": "2026-08-21"
+      }
+    },
+    {
+      "id": "C-12",
+      "model": "WW80AK6L28BBLT",
+      "type": "Always-on",
+      "channel": "TikTok In Feed",
+      "destination": "samsung.kz",
+      "creative_id": "CR-018",
+      "status": "Не начато",
+      "start": "2026-08-24",
+      "deadlines": {
+        "brief": "2026-08-14",
+        "creative": "2026-08-19",
+        "approval": "2026-08-21",
+        "upload": "2026-08-21"
+      },
+      "original": {
+        "brief": "2026-08-10",
+        "creative": "2026-08-17",
+        "approval": "2026-08-21"
+      }
+    },
+    {
+      "id": "C-13",
+      "model": "AR80F09CABWNER",
+      "type": "Промо-запуск",
+      "channel": "Performance Max",
+      "destination": "samsung.kz",
+      "creative_id": "CR-019",
+      "status": "Не начато",
+      "start": "2026-08-03",
+      "deadlines": {
+        "brief": "2026-07-20",
+        "creative": "2026-07-27",
+        "approval": "2026-07-31",
+        "upload": "2026-07-31"
+      },
+      "original": {
+        "brief": "2026-07-20",
+        "creative": "2026-07-27",
+        "approval": "2026-07-31"
+      }
+    },
+    {
+      "id": "C-14",
+      "model": "AR80F09CABWNER",
+      "type": "Маркетплейс",
+      "channel": "Kaspi Ads",
+      "destination": "Kaspi.kz",
+      "creative_id": "CR-020",
+      "status": "Не начато",
+      "start": "2026-08-03",
+      "deadlines": {
+        "brief": "2026-07-24",
+        "creative": "2026-07-29",
+        "approval": "2026-07-31",
+        "upload": "2026-07-31"
+      },
+      "original": {
+        "brief": "2026-07-20",
+        "creative": "2026-07-27",
+        "approval": "2026-07-31"
+      }
+    },
+    {
+      "id": "C-15",
+      "model": "RB53DG703EB1WT",
+      "type": "Retail support",
+      "channel": "Meta",
+      "destination": "Evrika",
+      "creative_id": "CR-021",
+      "status": "Не начато",
+      "start": "2026-08-03",
+      "deadlines": {
+        "brief": "2026-07-20",
+        "creative": "2026-07-27",
+        "approval": "2026-07-30",
+        "upload": "2026-07-31"
+      },
+      "original": {
+        "brief": "2026-07-20",
+        "creative": "2026-07-27",
+        "approval": "2026-07-31"
+      }
+    }
+  ],
+  "issues": [
+    {
+      "code": "MEDIA_NO_PERF",
+      "priority": "P2",
+      "title": "Bespoke line · медийка без перформанс-поддержки",
+      "detail": "Медийные кампании: C-09 (Meta  950 000 ₸). По правилу вкладки «Каналы» охват не сконвертируется.",
+      "campaigns": [
+        "C-09"
+      ],
+      "action": "Добавить Google Search / PMax на эту модель или снять медийку"
+    },
+    {
+      "code": "MEDIA_NO_PERF",
+      "priority": "P2",
+      "title": "RB53DG703EB1WT · медийка без перформанс-поддержки",
+      "detail": "Медийные кампании: C-06 (YouTube  1 200 000 ₸). По правилу вкладки «Каналы» охват не сконвертируется.",
+      "campaigns": [
+        "C-06"
+      ],
+      "action": "Добавить Google Search / PMax на эту модель или снять медийку"
+    },
+    {
+      "code": "MEDIA_NO_PERF",
+      "priority": "P2",
+      "title": "WW65AK4S21CELT · медийка без перформанс-поддержки",
+      "detail": "Медийные кампании: C-10 (YouTube  1 100 000 ₸). По правилу вкладки «Каналы» охват не сконвертируется.",
+      "campaigns": [
+        "C-10"
+      ],
+      "action": "Добавить Google Search / PMax на эту модель или снять медийку"
+    },
+    {
+      "code": "RULE_MISMATCH",
+      "priority": "P2",
+      "title": "C-03 · дедлайны посчитаны не по правилам типа «Маркетплейс»",
+      "detail": "Бриф: было 20.07 → стало 24.07 (+4 дн.); Креатив: было 27.07 → стало 29.07 (+2 дн.)",
+      "campaigns": [
+        "C-03"
+      ],
+      "action": "Обновить дедлайны в мастер-плане"
+    },
+    {
+      "code": "RULE_MISMATCH",
+      "priority": "P2",
+      "title": "C-04 · дедлайны посчитаны не по правилам типа «Retail support»",
+      "detail": "Согласование: было 07.08 → стало 06.08 (-1 дн.)",
+      "campaigns": [
+        "C-04"
+      ],
+      "action": "Обновить дедлайны в мастер-плане"
+    },
+    {
+      "code": "RULE_MISMATCH",
+      "priority": "P2",
+      "title": "C-05 · дедлайны посчитаны не по правилам типа «Retail support»",
+      "detail": "Согласование: было 07.08 → стало 06.08 (-1 дн.)",
+      "campaigns": [
+        "C-05"
+      ],
+      "action": "Обновить дедлайны в мастер-плане"
+    },
+    {
+      "code": "RULE_MISMATCH",
+      "priority": "P2",
+      "title": "C-06 · дедлайны посчитаны не по правилам типа «Медийка»",
+      "detail": "Бриф: было 27.07 → стало 20.07 (-7 дн.); Креатив: было 03.08 → стало 31.07 (-3 дн.); Согласование: было 07.08 → стало 05.08 (-2 дн.)",
+      "campaigns": [
+        "C-06"
+      ],
+      "action": "Обновить дедлайны в мастер-плане"
+    },
+    {
+      "code": "RULE_MISMATCH",
+      "priority": "P2",
+      "title": "C-08 · дедлайны посчитаны не по правилам типа «Маркетплейс»",
+      "detail": "Бриф: было 03.08 → стало 07.08 (+4 дн.); Креатив: было 10.08 → стало 12.08 (+2 дн.)",
+      "campaigns": [
+        "C-08"
+      ],
+      "action": "Обновить дедлайны в мастер-плане"
+    },
+    {
+      "code": "RULE_MISMATCH",
+      "priority": "P2",
+      "title": "C-09 · дедлайны посчитаны не по правилам типа «Медийка»",
+      "detail": "Бриф: было 03.08 → стало 27.07 (-7 дн.); Креатив: было 10.08 → стало 07.08 (-3 дн.); Согласование: было 14.08 → стало 12.08 (-2 дн.)",
+      "campaigns": [
+        "C-09"
+      ],
+      "action": "Обновить дедлайны в мастер-плане"
+    },
+    {
+      "code": "RULE_MISMATCH",
+      "priority": "P2",
+      "title": "C-10 · дедлайны посчитаны не по правилам типа «Медийка»",
+      "detail": "Бриф: было 10.08 → стало 03.08 (-7 дн.); Креатив: было 17.08 → стало 14.08 (-3 дн.); Согласование: было 21.08 → стало 19.08 (-2 дн.)",
+      "campaigns": [
+        "C-10"
+      ],
+      "action": "Обновить дедлайны в мастер-плане"
+    },
+    {
+      "code": "RULE_MISMATCH",
+      "priority": "P2",
+      "title": "C-11 · дедлайны посчитаны не по правилам типа «Retail support»",
+      "detail": "Согласование: было 21.08 → стало 20.08 (-1 дн.)",
+      "campaigns": [
+        "C-11"
+      ],
+      "action": "Обновить дедлайны в мастер-плане"
+    },
+    {
+      "code": "RULE_MISMATCH",
+      "priority": "P2",
+      "title": "C-12 · дедлайны посчитаны не по правилам типа «Always-on»",
+      "detail": "Бриф: было 10.08 → стало 14.08 (+4 дн.); Креатив: было 17.08 → стало 19.08 (+2 дн.)",
+      "campaigns": [
+        "C-12"
+      ],
+      "action": "Обновить дедлайны в мастер-плане"
+    },
+    {
+      "code": "RULE_MISMATCH",
+      "priority": "P2",
+      "title": "C-14 · дедлайны посчитаны не по правилам типа «Маркетплейс»",
+      "detail": "Бриф: было 20.07 → стало 24.07 (+4 дн.); Креатив: было 27.07 → стало 29.07 (+2 дн.)",
+      "campaigns": [
+        "C-14"
+      ],
+      "action": "Обновить дедлайны в мастер-плане"
+    },
+    {
+      "code": "RULE_MISMATCH",
+      "priority": "P2",
+      "title": "C-15 · дедлайны посчитаны не по правилам типа «Retail support»",
+      "detail": "Согласование: было 31.07 → стало 30.07 (-1 дн.)",
+      "campaigns": [
+        "C-15"
+      ],
+      "action": "Обновить дедлайны в мастер-плане"
+    },
+    {
+      "code": "WEEK_OVERLOAD",
+      "priority": "P2",
+      "title": "W31 · перегруз: 6 запусков при лимите 4",
+      "detail": "Кампании: C-01, C-02, C-03, C-13, C-14, C-15",
+      "campaigns": [
+        "C-01",
+        "C-02",
+        "C-03",
+        "C-13",
+        "C-14",
+        "C-15"
+      ],
+      "action": "Перенести часть запусков на соседнюю неделю или заказать креатив раньше"
+    }
+  ]
+}
