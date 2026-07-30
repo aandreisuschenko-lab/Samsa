@@ -141,11 +141,11 @@ def build_weekly_digest(plan: PlanData, issues: list[Issue], today: date) -> str
 
     lines += ["", "## 📋 Что сделать на этой неделе", ""]
     if tasks:
-        lines += ["| Дедлайн | Кампания | Этап | Модель | Статус |", "|---|---|---|---|---|"]
+        lines += ["| Дедлайн | Кампания | Этап | Ответственный | Статус |", "|---|---|---|---|---|"]
         for d, c, stage, mark in tasks[:15]:
             flag = "⚠️ " if mark == "просрочено" else ""
             lines.append(
-                f"| {flag}{_short(d)} | {c.id} | {STAGE_LABELS[stage]} | {c.model} | {c.status} |"
+                f"| {flag}{_short(d)} | {c.id} | {STAGE_LABELS[stage]} | {c.owner or '—'} | {c.status} |"
             )
         if len(tasks) > 15:
             lines.append(f"| … | ещё {len(tasks) - 15} задач | | | |")
